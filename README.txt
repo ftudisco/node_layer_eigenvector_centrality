@@ -28,6 +28,6 @@ Last modified: 07/04/17 by Francesca Arrigo
 >> "Node and layer eigenvector centralities for multiplex networks", (submitted)
 >>  F. Arrigo (http://arrigofrancesca.wixsite.com/farrigo), 
 >>  A. Gautier (http://www.ml.uni-saarland.de/people/gautier.htm), and 
->>  F. Tudisco (http://www.math.unipd.it/~tudisco/pages/home.html) 
+>>  F. Tudisco (http://personal.strath.ac.uk/f.tudisco) 
 
 
