@@ -2,7 +2,7 @@ Matlab codes used to implement and test the power iteration for 3rd order tensor
 
 		"Node and layer eigenvector centralities for multiplex networks" 
 
-by F. Arrigo, A. Gautier, and F. Tudisco. 
+by F. Tudisco, F. Arrigo and A. Gautier.
 
 To run, the codes require the toolbox "tprod" by Jason Farquhar available at:
 https://uk.mathworks.com/matlabcentral/fileexchange/16275-tprod-arbitary-tensor-products-between-n-d-arrays#functions_tab
