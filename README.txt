@@ -25,9 +25,9 @@ fig_isim1.m      - SCRIPT requiring input variable "Atensor" containing the 3rd 
 Last modified: 07/04/17 by Francesca Arrigo 
 
 >> Reference:
->> "Node and layer eigenvector centralities for multiplex networks", (submitted)
->>  F. Arrigo (http://arrigofrancesca.wixsite.com/farrigo), 
+>> "Node and layer eigenvector centralities for multiplex networks", SIAM J. Applied Mathematics, 78 : 853--876 (2018) 
+>>  F. Tudisco (http://personal.strath.ac.uk/f.tudisco), 
 >>  A. Gautier (http://www.ml.uni-saarland.de/people/gautier.htm), and 
->>  F. Tudisco (http://personal.strath.ac.uk/f.tudisco) 
+>>  F. Arrigo (http://arrigofrancesca.wixsite.com/farrigo)
 
 
